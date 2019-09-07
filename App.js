@@ -40,7 +40,13 @@ const navigator = createSwitchNavigator({
       EventScreen: Screen3,
       DetailEventScreen: ImageScreen,
     })
-  })
+  },
+  {
+    tabBarOptions: {
+      activeTintColor: 'black',
+      inactiveTintColor: 'gray',
+      },
+    })
 });
 
 
