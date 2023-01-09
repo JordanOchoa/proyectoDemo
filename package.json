@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "firebase": "^6.4.2",
-    "firebase-admin": "^8.4.0",
+    "firebase-admin": "^11.4.1",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "react-native-elements": "^1.1.0",
